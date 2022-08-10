@@ -129,7 +129,7 @@ const config = {
 // module.exports = config;
 
 module.exports = {
-  url: 'https://zesty-donut-7f8f1b.netlify.app', // Url to your site with no trailing slash
+  url: 'https://elegant-dasik-55c6c4.netlify.app', // Url to your site with no trailing slash
   baseUrl: '/', // Base directory of your site relative to your repo
   title: 'Portfolio',
 };
