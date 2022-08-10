@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {  
-  title: 'Blossom',
+  title: 'Ridzwan Haron',
   tagline: 'Thoughts about UX',
   url: 'https://elegant-dasik-55c6c4.netlify.app',
   baseUrl: '/',
@@ -17,7 +17,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'omgsian', // Usually your GitHub org/user name.
-  projectName: 'ridzwanblog', // Usually your repo name.
+  projectName: 'ux-portfolio', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
