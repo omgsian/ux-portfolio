@@ -4,6 +4,9 @@ title: Portfolio page example
 
 # Portfolio
 
-I have a [public portfolio](https://ridzwanharon.wordpress.com).
+:::info
+I am in the midst of consolidating all my portfolio pieces into a single space. In the meantime, you can access them here.
+:::
 
-My private portfolio can be accessed <a href="https://elegant-dasik-55c6c4.netlify.app/private-portfolio/" target="_blank">here</a>.
+* [public portfolio](https://ridzwanharon.wordpress.com).
+* <a href="https://elegant-dasik-55c6c4.netlify.app/private-portfolio/" target="_blank">Private portfolio</a>.
