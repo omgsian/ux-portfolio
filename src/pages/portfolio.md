@@ -9,4 +9,4 @@ I am currently consolidating all my portfolio pieces into a single space. In the
 :::
 
 * [Public portfolio](https://ridzwanharon.wordpress.com).
-* <a href="https://elegant-dasik-55c6c4.netlify.app/private-portfolio/" target="_blank">Private portfolio</a>.
+* <a href="https://elegant-dasik-55c6c4.netlify.app/private-portfolio/" target="_blank">Private portfolio</a> (password-protected - <a href="mailto:rdzwn.hrn@gmail.com">email me</a> to request for the password)
