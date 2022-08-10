@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {  
   title: 'Ridzwan Haron',
-  tagline: 'Thoughts about UX',
+  tagline: 'Product designer based in Singapore. Open for opportunities locally and abroad.',
   url: 'https://elegant-dasik-55c6c4.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
