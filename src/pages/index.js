@@ -18,7 +18,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="mailto:rdzwn.hrn@gmail.com">
-            Drop me a note
+            Say hello
           </Link>
         </div>
       </div>
@@ -30,7 +30,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`${siteConfig.title}`}
+      title="Ridzwan Haron"
       description="Curious and data-driven product designer. <head />">
       <HomepageHeader />
       <main>
