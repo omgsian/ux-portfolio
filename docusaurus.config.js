@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {  
   title: 'Ridzwan Haron',
   tagline: 'Product designer based in Singapore. Open for opportunities locally and abroad.',
-  url: 'https://elegant-dasik-55c6c4.netlify.app',
+  url: 'https://ridzwan.design',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
