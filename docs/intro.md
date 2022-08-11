@@ -14,6 +14,6 @@ Outside of work, I enjoy hiking (pre-pandemic), reading and urban exploration. I
 
 ## Contact
 
-* Email 
+* [Email](mailto:rdzwn.hrn@gmail.com) 
 * [Linkedin](https://www.linkedin.com/in/ridzwanharon/)
 * [adplist](https://adplist.org/members/ridzwan)

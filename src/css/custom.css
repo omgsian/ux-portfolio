@@ -5,9 +5,11 @@
  */
 
 /* You can override the default Infima variables here. */
+
+/* Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;600&display=swap');
 
-
+/* Global Font */
 body, h1, h2, h3 {
   font-family: 'Rubik';
 }
