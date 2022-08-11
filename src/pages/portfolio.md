@@ -9,4 +9,4 @@ I am currently consolidating my portfolio pieces into my website. While that's b
 :::
 
 * [Public portfolio](https://ridzwanharon.wordpress.com)
-* <a href="https://ridzwan.design/private-portfolio/" target="_blank">🔐 Private portfolio</a> (please <a href="mailto:rdzwn.hrn@gmail.com">contact me</a> for the password)
+* <a href="/private-portfolio/" target="_blank">🔐 Private portfolio</a> (please <a href="mailto:rdzwn.hrn@gmail.com">contact me</a> for the password)
