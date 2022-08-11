@@ -57,9 +57,7 @@ const config = {
       }),
     ],
   ],
-
-
-
+  plugins: ["docusaurus-plugin-clarity"],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -129,6 +127,9 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+      },
+      clarity: {
+        ID: "d5wno1pf27", 
       },
     }),
 };
