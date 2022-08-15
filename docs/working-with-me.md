@@ -32,7 +32,7 @@ There’s a lot of information flying around, so if you hear something that does
 ## The best way to help me is ...
 
 * **Disagree with me**. Remind me that I'm wrong. If you disagree with me, let me know. The best solutions result from debate. I'll challenge your ideas with the goal of coming to the best solution, so please return the favor by challenging mine as well. 
-* **Tell me when I screw up.** This is very important. I screw up and sometimes don’t notice. Be specific about what was wrong and where went wrong and why it went wrong so that I can learn and not repeat it. I don't like surprises at my performance reviews.
+* **Tell me when I screw up.** This is very important. I screw up and sometimes don’t notice. Be specific about what was wrong and where went wrong and why it went wrong so that I can learn and not repeat it. 
 
 ## I can help you ...
 
