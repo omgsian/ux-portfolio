@@ -9,10 +9,11 @@ Discovery is the process in which I look at both the present and future states. 
 
 The typical activities that I engage in during this process are:
 
-* Competitive analysis.
-* Subject matter expert interviews.
-* Customer interviews.
-* Thought leadership articles. 
+* **Customer interviews**.
+* **Secondary research**. Some examples of secondary research include thought leadership articles, scholarly papers, relevant tweets.
+* **Thought leadership articles**. 
+* **Competitors' analysis**. Where possible, I study the competitors' offerings in order to understand how these offerings are closing the gaps I had identified. 
+* **Subject matter expert interviews**.
 
 ## Example outputs
 
