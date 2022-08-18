@@ -14,7 +14,7 @@ The typical activities that I do in this process are:
     1. Does the content in the frame, meet the business or user goal?
     2. Does the flow of events in the prototype, make sense?
     2. Is this design technically feasible?
-* **Design reviews**. All throughout the wireframing and prototyping process of ideation, I involve stakeholders from product management, customer support, and engineering to give their feedback on the prototypes. Using a [feedback loop framework](../docs/resources.md), I consider each feedback, and incorporate them where possible, 
+* **Design reviews**. All throughout the wireframing and prototyping process of ideation, I involve stakeholders from product management, customer support, and engineering to give their feedback on the prototypes. Using a [feedback loop framework](../resources.md), I consider each feedback, and incorporate them where possible, 
 
 ## Example outputs
 
