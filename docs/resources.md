@@ -10,4 +10,4 @@ Work in progress.
 
 ::: 
 
-I'm still building this page out. Keep a lookout for downloadable templates I'm open sourcing to all! 
+I'm still building this page out. Keep a lookout for downloadable templates! 
