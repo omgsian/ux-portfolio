@@ -18,5 +18,5 @@ The typical activities that I engage in during this process are:
 
 * Customer personas
 * Journey maps
-* [Mental model maps](/static/img/mental-model.jpeg), inspired by [Indi Young's book](https://www.amazon.com/Mental-Models-Aligning-Strategy-Behavior/dp/1933820063)
+* [Mental model maps](../../static/img/mental-model.jpeg), inspired by [Indi Young's book](https://www.amazon.com/Mental-Models-Aligning-Strategy-Behavior/dp/1933820063)
 * Competitor analysis findings
