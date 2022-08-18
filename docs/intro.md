@@ -10,9 +10,14 @@ While I'm open to _most_ opportunities, I favour working with multinational comp
 
 I'm open to mentoring junior designers particularly those who are racial minorities or LGBTQ+.
 
-I have experience using Figma, Adobe XD, Sketch and Protopie.
 
 Outside of work, I enjoy hiking (pre-pandemic), reading and urban exploration. I also work with a group of feeders looking after community cats in my neighbourhood.
+
+## Skillset
+
+* **Core skills**: User Research, UX/UI Design, Service Design, Rapid Prototyping, Usability Testing (UT), Workshopping Technique, Facilitation, Frontend Development, Competitor Analysis, Data Analysis.
+* **Languages**: Bahasa Melayu (Native), Bahasa Indonesia (Professional), English (Professional), Mandarin (Basic)
+* **Tools**: Figma, Adobe XD, Sketch, Protopie, Framer
 
 ## Contact
 
