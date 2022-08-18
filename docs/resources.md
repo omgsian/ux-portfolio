@@ -4,4 +4,10 @@ sidebar_position: 6
 
 # Resources
 
-Keep an eye on this section for templates I'm open sourcing. 
+:::info
+
+Work in progress. 
+
+::: 
+
+I'm still building this page out. Keep a lookout for downloadable templates I'm open sourcing to all! 
