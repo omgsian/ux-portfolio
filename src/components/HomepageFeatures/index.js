@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Learn about how I problem solve, and the types of tools or frameworks I use. <br/><a href="/docs/category/design-process">Read more</a>
+        Learn about how I problem solve, and the types of tools or frameworks I use to drive solutions. <br/><a href="/docs/category/design-process">Read more</a>
       </>
     ),
   },
