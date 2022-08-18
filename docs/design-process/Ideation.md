@@ -7,7 +7,7 @@ sidebar_position: 3
 
 Ideation is the process where I generate early to mid stage ideas and final solutions. 
 
-The typical activities that I do during this process are:
+The typical activities that I do in this process are:
 
 * **Flowchart**. In the early stages of a project, I begin articulating the flow of events, for every functionality. 
 * **Wireframing and prototyping**. Typically, I begin ideation with low-to-midelity wireframes and stitching them together to create prototypes. In the ideation stage, I'm not concerned about the look and feel of the user interface, as much as I am concerned about the following:
