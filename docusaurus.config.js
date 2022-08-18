@@ -96,11 +96,15 @@ const config = {
             ],
           },
           {
-            title: 'Social',
+            title: 'Social', 
             items: [
               {
                 label: 'Linkedin',
                 href: 'https://www.linkedin.com/in/ridzwanharon/',
+              },
+              {
+                label: 'Linktr.ee',
+                href: 'https://linktr.ee/ridzwanharon',
               },
               {
                 label: 'Github',

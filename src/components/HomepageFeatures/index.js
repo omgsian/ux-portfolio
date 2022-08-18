@@ -4,29 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'My Values',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        Learn about the fundamental values that drive me. These values also shape the work I look for. <br/><a href="/docs/my-values">Read more</a>
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'My Manual',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        Learn about my preferences and expectations I've of my work environment and team members. <br/><a href="/docs/my-manual">Read more</a>
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'My Design Process',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        Learn about how I problem solve, and the types of tools or frameworks I use. <br/><a href="/docs/category/design-process">Read more</a>
       </>
     ),
   },
