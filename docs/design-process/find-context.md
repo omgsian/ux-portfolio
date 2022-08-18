@@ -14,7 +14,7 @@ The typical activities that I do in this process are:
 
 ## Expected outputs
 
-* A one-page [design brief](../work-in-progress)
+* A one-page [design brief](../resources.md)
 * A clearer understanding on the business goals, and how it influences design goals
 * A full view of the involved stakeholders, their level of influence, and impact change has on them
 * A broad appreciation of the thought process that went into past decisions
