@@ -1,9 +1,9 @@
 ---
-sidebar_label: 'Personal values'
+sidebar_label: 'My values'
 sidebar_position: 2
 ---
 
-# Personal values
+# My values
 
 ## Transparency
 I value transparency in my personal and professional relationships, and I'm proud to be honest about who I am and what I stand for. Transparency creates trust, and trust is critical to building strong and honest relationships.
