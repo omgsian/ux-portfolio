@@ -12,7 +12,7 @@ I'm open to mentoring junior designers particularly those who are racial minorit
 
 Outside of work, I enjoy hiking (pre-pandemic), reading and urban exploration. I also work with a group of feeders looking after community cats in my neighbourhood.
 
-## Principles
+## Design guidelines
 
 * **I believe that content drives design.** I like working at mid-fidelity levels until I feel confident that the content and design complements each other.
 * **I mix quantitative data with qualitative data.** I harness the power of qualitative data to complement the rich user insights I get to maximise buy-in on change.
