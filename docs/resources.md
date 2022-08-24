@@ -6,8 +6,8 @@ sidebar_position: 6
 
 :::info
 
-Work in progress. 
+Work in progress.
 
-::: 
+:::
 
-I'm still building this page out. Keep a lookout for downloadable templates! 
+I'm still building this page out. Keep a lookout for downloadable templates!

@@ -10,8 +10,14 @@ While I'm open to _most_ opportunities, I favour working with multinational comp
 
 I'm open to mentoring junior designers particularly those who are racial minorities or LGBTQ+.
 
-
 Outside of work, I enjoy hiking (pre-pandemic), reading and urban exploration. I also work with a group of feeders looking after community cats in my neighbourhood.
+
+## Principles
+
+* **I believe that content drives design.** I like working at mid-fidelity levels until I feel confident that the content and design complements each other.
+* **I mix quantitative data with qualitative data.** I harness the power of qualitative data to complement the rich user insights I get to maximise buy-in on change.
+* **I reuse available research as much as I can.** I snoop on old documents to find insights informing my designs. I also reference scholarly papers where needed.
+* **I get feedback and test early.** I look for opportunities to share my designs early, even if I haven’t achieved that 80% confidence.
 
 ## Skillset
 
