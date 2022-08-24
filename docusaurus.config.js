@@ -111,7 +111,7 @@ const config = {
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/#',
+                href: 'https://twitter.com/ridzwanharon',
               },
             ],
           },
