@@ -1,5 +1,5 @@
 ---
-title: Portfolio page example
+title: Portfolio
 ---
 
 # Portfolio
