@@ -45,6 +45,8 @@ const config = {
         },
         blog: {
           showReadingTime: true,
+          readingTime: ({content, frontMatter, defaultReadingTime}) =>
+          defaultReadingTime({content, options: {wordsPerMinute: 300}}),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl: 'https://github.com/omgsian/ux-portfolio/tree/main/packages/create-docusaurus/templates/shared/',
@@ -72,7 +74,7 @@ const config = {
             label: 'Docs',
           },
           {to: '/portfolio', label: 'Portfolio', position: 'left'},
-          // {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/omgsian',
             label: 'GitHub',
