@@ -72,7 +72,7 @@ const config = {
             label: 'Docs',
           },
           {to: '/portfolio', label: 'Portfolio', position: 'left'},
-          {to: '/blog', label: 'Blog', position: 'left'},
+          // {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/omgsian',
             label: 'GitHub',
