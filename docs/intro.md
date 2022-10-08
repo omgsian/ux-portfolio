@@ -6,9 +6,9 @@ sidebar_position: 1
 
 My name is Ridzwan and I try to be the very best version of myself that I can be. I'm creative, curious and take a data-informed approach to user-centred design. I'm a UX designer with 5+ years of professional experience across big and small companies with a demonstrated ability to cut out the complexity. I'm skilled in running qualitative and quantitative research, and building design systems from scratch. In the last five years, I've helped teams to:
 
-* Scaled up product feedback cycles by creating and scaling up user communities 
-* Shifted design team cultures to measure the design impact
-* Scaled up design operations by creating templates and introducing frameworks that can benefit the design team
+* Increase product feedback cycles by creating and scaling up user communities 
+* Shift design team cultures to measure the design impact
+* Scale up design operations by creating templates and introducing frameworks that can benefit the design team
 
 My values centre around **[transparency](my-values.md#transparency)**, **[closeness](my-values.md#closeness)**, **[connection](my-values.md#connection)**, **[knowledge sharing](my-values.md#knowledge-sharing)**, and [**continuous learning**](my-values.md#continuous-learning). You can also find out how best to work with me in **[my manual](my-manual.md)**.
 
